@@ -74,7 +74,7 @@ footer {
     overflow: hidden;
     text-align: center;
 }
-.blk-card img { width: 100%; height: 160px; object-fit: cover; }
+.blk-card img { width: 100%; height: auto; display: block; }
 .blk-card h3 { margin: 14px 0 6px 0; }
 .blk-card p { margin: 0 16px 18px 16px; }
 /* GALLERY */
