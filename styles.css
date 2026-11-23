@@ -107,3 +107,8 @@ img {
   max-width: 300px;
   height: auto;
 }
+.legend {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+}
